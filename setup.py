@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-plugin_identifier = "cmdexec"
+plugin_identifier = "cmdoffexec"
 plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "Octoprint-CmdOff"
 plugin_version = "1.0.4"
