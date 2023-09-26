@@ -4,12 +4,12 @@ from setuptools import setup
 
 plugin_identifier = "cmdexec"
 plugin_package = "octoprint_%s" % plugin_identifier
-plugin_name = "Octoprint-CmdExec"
+plugin_name = "Octoprint-CmdOff"
 plugin_version = "1.0.4"
 plugin_description = "Execute commands from Octoprint's UI"
 plugin_author = "Alexis Coulombe"
 plugin_author_email = "alexiscoulombe1436023@gmail.com"
-plugin_url = "https://github.com/Chargnn/Octoprint-CmdExec"
+plugin_url = "https://github.com/sohielinho/Octoprint-CmdOff"
 plugin_license = "AGPLv3"
 plugin_requires = []
 plugin_additional_data = []
